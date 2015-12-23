@@ -4,7 +4,7 @@ test = (function(){
         begin = prompt('enter begin number');
         end = prompt('enter end number');
         var sum = (end - begin)/2*end + (end - begin)/2;
-
+        console.log('tester');
         /*for(var i = 1; i <= end; i++){
             sum += i;
         }*/
